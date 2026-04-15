@@ -1,11 +1,11 @@
 {
-  "name": "moonbit-community/js-ffi",
+  "name": "sennenki/js-ffi",
   "version": "0.4.2",
   "readme": "README.md",
-  "repository": "https://github.com/moonbit-community/js-ffi",
+  "repository": "https://github.com/sennenki/js-ffi",
   "license": "Apache-2.0",
   "keywords": [],
-  "description": "",
+  "description": "A fork of moonbit-community/js-ffi that does not abort compilation on targets other than js",
   "source": "src",
   "preferred-target": "js"
 }
